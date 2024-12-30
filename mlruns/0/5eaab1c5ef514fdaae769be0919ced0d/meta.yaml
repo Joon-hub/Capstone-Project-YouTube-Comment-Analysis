@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sudhirjoon/Library/Mobile%20Documents/com~apple~CloudDocs/Uni_Mannheim/Sem2/ML_atu/Capstone%20project/mlruns/0/5eaab1c5ef514fdaae769be0919ced0d/artifacts
+end_time: 1735567943583
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5eaab1c5ef514fdaae769be0919ced0d
+run_name: XGB_Trial_0
+run_uuid: 5eaab1c5ef514fdaae769be0919ced0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735567934158
+status: 3
+tags: []
+user_id: sudhirjoon
